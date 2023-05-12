@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 ghcr.io/gbraad-devenv/alma/base:9
+FROM --platform=linux/amd64 ghcr.io/gbraad-devenv/almalinux/base:9
 
 USER root
 

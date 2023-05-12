@@ -1,4 +1,4 @@
-FROM ghcr.io/gbraad-devenv/alma/base:9
+FROM ghcr.io/gbraad-devenv/almalinux/base:9
 
 USER gbraad
 

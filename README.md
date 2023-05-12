@@ -1,5 +1,5 @@
-Gerard Braad's Alma development environment
-===========================================
+Gerard Braad's AlmaLinux development environment
+================================================
 
 !["Prompt"](https://raw.githubusercontent.com/gbraad/assets/gh-pages/icons/prompt-icon-64.png)
 
@@ -12,8 +12,8 @@ Usage
 
 ### Cloud
 
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/alma)
-  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/alma)
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
+  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/almalinux)
   * `almenv` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
