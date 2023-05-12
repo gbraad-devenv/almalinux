@@ -1,11 +1,11 @@
 #!/bin/sh
 
 # clean workspace folder
-#rm -rf /workspace/fedora
-#mkdir /workspace/fedora
-#ln -s /workspace/fedora ~/Projects
-#git init /workspace/fedora
+rm -rf /workspace/almalinux
+mkdir /workspace/almalinux
+ln -s /workspace/almalinux ~/Projects
+git init /workspace/almalinux
 
-#cd ~
+cd ~
 
 exit 0
