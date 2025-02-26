@@ -20,6 +20,7 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
+
       - name: Run podman build - base
         run: |
           podman build -t ghcr.io/gbraad-devenv/almalinux/rebase:9 \
